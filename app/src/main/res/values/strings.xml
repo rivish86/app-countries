@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Countries list</string>
+
+    <string-array name="sortByArray">
+        <item>name (A-->Z)</item>
+        <item>name (Z-->A)</item>
+        <item>area size (ascending)</item>
+        <item>area size (descending)</item>
+    </string-array>
+
+    <string name="borders_title">Bordering countries of</string>
+
+</resources>
